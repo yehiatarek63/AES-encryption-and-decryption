@@ -5,4 +5,4 @@ Here are screenshots of the waveforms for verification:
 ![Capture](https://github.com/yehiatarek63/AES-encryption-and-decryption/assets/94568731/ac1d46b3-3258-488c-acfe-a09605c4bcef)
 
 
-More info: AES is a popular encryption algorithm which uses many modules like mixcolumns, subbytes, shiftrows, addroundkey. Here is its documentation: [AES Dicumentation]()
+More info: AES is a popular encryption algorithm which uses many modules like mixcolumns, subbytes, shiftrows, addroundkey. Here is its documentation: [AES Documentation]()
